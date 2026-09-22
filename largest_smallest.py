@@ -5,7 +5,7 @@ smallest = arr[0]
 
 for i in arr:
     if i > largest:
-        largest = i
+        largest = arr
 
     if i < smallest:
         smallest = i
